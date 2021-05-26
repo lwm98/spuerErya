@@ -32,5 +32,11 @@ Q:有人会问了，两个脚本主要功能实现方法类似，为什么不合
 
 A:因为本人在上班，下班5分钟搞完的，能用就行，如果大家遇到哪里报错的，能自己动手改就改，不可以的话 请邮件821256519@qq.com，我有空就帮你解决。
 
+## ❤️开发者:
+<div style="width:66px;height:66px;border-radius:50%;overflow:hidden">
+   <a href="https://github.com/lwm98">
+      <img src="https://avatars1.githubusercontent.com/u/48340898?s=460&u=78d39b7b7304e030eee7ab9aeec5b62fd792d253&v=4" width="66" height="66"/>
+   </a>
+</div>
 
-🔗注：该脚本仅供学习参考使用。
+🔗注：该脚本仅供学习参考使用。点个star吧！
